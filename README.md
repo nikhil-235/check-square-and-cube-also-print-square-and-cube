@@ -1,0 +1,1 @@
+# check-square-and-cube-also-print-square-and-cube
